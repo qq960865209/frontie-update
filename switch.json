@@ -1,0 +1,45 @@
+{
+  "schema": "frontie.switch.v2",
+  "serial": 2026112426,
+  "issuedAt": "2026-11-24T06:37:29.994Z",
+  "graceDays": 0,
+  "offlineGraceDays": 7,
+  "modules": {
+    "video.douyin": {
+      "enabled": true
+    },
+    "video.xiaohongshu": {
+      "enabled": true
+    },
+    "video.youtube": {
+      "enabled": true
+    },
+    "video.kuaishou": {
+      "enabled": true
+    },
+    "video.pipixia": {
+      "enabled": true
+    },
+    "video.youku": {
+      "enabled": true
+    },
+    "video.iqiyi": {
+      "enabled": true
+    },
+    "video.generic": {
+      "enabled": true
+    },
+    "video.demo.site": {
+      "enabled": true
+    },
+    "doubao.media": {
+      "enabled": true
+    }
+  },
+  "update": {
+    "version": "0.7.5",
+    "url": "https://1824350585.share.123pan.cn/123pan/GqbPjv-CVQHd",
+    "notes": "0.7.6：远程开关仓库迁移到 GitHub（qq960865209/frontie-update），保留 Gitee 镜像；修复 B站购买页误判和抖音图文解析。"
+  },
+  "sig": "54mMAXbjayaGZr4ZIyn4kqjOp+EmzVXSV7FPE112PlKTYruG2iiRCz5/VxxavPF2A0lrNZRbgN5x7KMv0CQUAw=="
+}
