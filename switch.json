@@ -1,7 +1,7 @@
 {
   "schema": "frontie.switch.v2",
-  "serial": 2026112510,
-  "issuedAt": "2026-11-25T17:26:13+08:00",
+  "serial": 2026112512,
+  "issuedAt": "2026-11-25T17:45:58+08:00",
   "graceDays": 0,
   "offlineGraceDays": 7,
   "modules": {
@@ -37,9 +37,9 @@
     }
   },
   "update": {
-    "version": "0.8.5",
+    "version": "0.8.6",
     "url": "https://pan.baidu.com/s/1PqEix8RlK3u6c-POLKJgLw?pwd=dgd2",
-    "notes": "0.8.5：多功能优化更新"
+    "notes": "0.8.6：隔离生产包自检钩子，收紧页面导航协议，清理旧命令面板，新增 npm test 自检"
   },
-  "sig": "OuwZsBzGJOW374iiv2kyivO00juRh4Kiq18uC/FKT3gBDV8HrtZEN2AS8ZWHxBBl4fkI2WFyB3Eg1p9pvtCACA=="
+  "sig": "QNUYALl7dgtUYypBMEOqNjzDmkuxtkzUf2awJfNtH7yC6wi0ealCNzdXiElyH7nmqbiXwwVZQGnNW+UJFyNUCQ=="
 }
