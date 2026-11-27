@@ -1,7 +1,7 @@
 {
   "schema": "frontie.switch.v2",
-  "serial": 2026112522,
-  "issuedAt": "2026-11-26T17:40:08+08:00",
+  "serial": 2026112523,
+  "issuedAt": "2026-11-27T11:48:52+08:00",
   "graceDays": 0,
   "offlineGraceDays": 7,
   "modules": {
@@ -37,9 +37,9 @@
     }
   },
   "update": {
-    "version": "0.9.3",
+    "version": "0.9.6",
     "url": "https://pan.baidu.com/s/13X9qEPqUQDQDeJZb5mRI7w?pwd=xjuk",
-    "notes": "功能优化"
+    "notes": "0.9.6:大量版本功能优化"
   },
-  "sig": "xtE+BwHRHcmpTp6wDAcZfhKyvLWNsr6iLga1yHW70JeAuvgvTbbdCUBofj9t/IGgFNODbnf6ZCfIfVGRsuyaBw=="
+  "sig": "ybpeMrhWmp8q5sLE7NGtwEKgUigVjigvB0HZGdKUrmCFwOpHpmlzisBpP0pFwKoEmcLYvq0RuO901btKnps5Cg=="
 }
