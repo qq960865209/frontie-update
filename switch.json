@@ -1,7 +1,7 @@
 {
   "schema": "frontie.switch.v2",
-  "serial": 2026112525,
-  "issuedAt": "2026-11-27T11:54:49+08:00",
+  "serial": 2026112806,
+  "issuedAt": "2026-11-28T20:40:09+08:00",
   "graceDays": 0,
   "offlineGraceDays": 7,
   "modules": {
@@ -37,9 +37,9 @@
     }
   },
   "update": {
-    "version": "0.9.6",
-    "url": "https://pan.baidu.com/s/15rWMZ29IkXVSxHFQ5P8aUA?pwd=ae53",
-    "notes": "0.9.6:大量版本功能优化"
+    "version": "1.0.0",
+    "url": "https://pan.baidu.com/s/11vtMNtK-o4RDNwOhKSsL1A?pwd=52pj",
+    "notes": "1.0.0：基础功能优化，新增解析直播视频源地址。"
   },
-  "sig": "cilnYpnxXFbuZ08Gf9LdxYc+DacJ8ClSF0iEpE+UD9OObUWGwcPvVMJExkqdXLV2KHJaBMuz1ERzhamVojpEAA=="
+  "sig": "307absQl5mhA+btRU4HH9J72BiVRAjyDgG7gf/y1YWgNPWtf0mXNtwphMyqrQwuJqlWFoBTfjgQgb5cT8BnhCw=="
 }
